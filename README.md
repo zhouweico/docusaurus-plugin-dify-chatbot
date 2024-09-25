@@ -1,8 +1,7 @@
 # Docusaurus Plugin Dify Chatbot
 
-This is a Docusaurus plugin to embed Dify.ai chatbot into your website.
+[Dify Apps Embedding In Websites](https://docs.dify.ai/guides/application-publishing/embedding-in-websites) plugin for Docusaurus.
 
-[Dify Apps Embedding In Websites](https://docs.dify.ai/guides/application-publishing/embedding-in-websites)
 ## Installation
 
 ```bash
@@ -35,7 +34,7 @@ In your `docusaurus.config.js`:
           // key is the variable name
           // e.g.
           // name: "NAME"
-      }
+      },
 	  
       // Overriding Default Button Styles
 	    bubbleButtonStyle: 'background-color: #1C64F2 !important;',

@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/zhouweico/docusaurus-plugin-dify-chatbot/issues"
   },
-  "homepage": "https://github.com/zhouweico/docusaurus-plugin-dify-chatbot#readme",
-  "peerDependencies": {
-    "docusaurus": "^2.0.0"
-  }
+  "homepage": "https://github.com/zhouweico/docusaurus-plugin-dify-chatbot#readme"
 }
