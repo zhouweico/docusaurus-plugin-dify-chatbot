@@ -1,0 +1,27 @@
+{
+  "name": "docusaurus-plugin-dify-chatbot",
+  "version": "1.0.0",
+  "description": "A Docusaurus plugin to embed Dify.ai chatbot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouweico/docusaurus-plugin-dify-chatbot.git"
+  },
+  "keywords": [
+    "[\"docusaurus\"",
+    "\"plugin\"",
+    "\"chatbot\"]"
+  ],
+  "author": "ZHOUWEI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhouweico/docusaurus-plugin-dify-chatbot/issues"
+  },
+  "homepage": "https://github.com/zhouweico/docusaurus-plugin-dify-chatbot#readme"
+  "peerDependencies": {
+    "docusaurus": "^2.0.0"
+  }
+}
