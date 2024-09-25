@@ -10,11 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/zhouweico/docusaurus-plugin-dify-chatbot.git"
   },
-  "keywords": [
-    "[\"docusaurus\"",
-    "\"plugin\"",
-    "\"chatbot\"]"
-  ],
+  "keywords": ["docusaurus", "plugin", "dify.ai", "chatbot"],
   "author": "ZHOUWEI",
   "license": "MIT",
   "bugs": {

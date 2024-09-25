@@ -1,6 +1,10 @@
 # Docusaurus Plugin Dify Chatbot
 
-[Dify Apps Embedding In Websites](https://docs.dify.ai/guides/application-publishing/embedding-in-websites) plugin for Docusaurus.
+[Dify App Embedding In Websites](https://docs.dify.ai/guides/application-publishing/embedding-in-websites) plugin for Docusaurus.
+
+## Dify Chatbot
+
+![](scripts-option.svg)
 
 ## Installation
 
